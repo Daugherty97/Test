@@ -1,0 +1,11 @@
+---
+title: "test1"
+author: "Rachel Daugherty"
+date: "2023-06-06"
+output: html_document
+---
+
+```{r}
+x=c(1,2,3)
+```
+
